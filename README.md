@@ -1,3 +1,10 @@
+## 书籍推荐
+
+** 1. [神经网络与深度学习] https://nndl.github.io   [在线读本]
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JoeBlack27/JoeBlack27.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
