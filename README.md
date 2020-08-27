@@ -1,8 +1,8 @@
 ## 书籍推荐
 
-* 1. [神经网络与深度学习](https://nndl.github.io)   [在线读本]
+* [神经网络与深度学习](https://nndl.github.io) , 作者：复旦大学计算机科学技术学院副教授邱锡鹏。【在线读本】
 
-
+* [动手学深度学习](http://zh.d2l.ai/index.html), 作者：阿斯顿·张, 李沐等。【在线读本】
 
 
 ## Welcome to GitHub Pages
