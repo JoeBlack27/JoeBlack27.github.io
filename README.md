@@ -5,6 +5,17 @@
 * [动手学深度学习](http://zh.d2l.ai/index.html), 作者：阿斯顿·张, 李沐等。【在线读本】
 
 
+
+## 领域常客主页
+
+
+
+[刘烨斌](http://www.liuyebin.com)， 清华大学自动化系宽带网络和数字媒体实验室, 方向: Computational Photography and Reconstruction （3D方向居多）
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JoeBlack27/JoeBlack27.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
