@@ -1,6 +1,6 @@
 ## 书籍推荐
 
-** 1. [神经网络与深度学习] https://nndl.github.io   [在线读本]
+* 1. [神经网络与深度学习](https://nndl.github.io)   [在线读本]
 
 
 
