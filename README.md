@@ -18,6 +18,8 @@
 
 [Foundations of Optimization](http://www1.se.cuhk.edu.hk/~manchoso/1920/engg5501/), 香港中文大学，吴文藻
 
+优化基础的前置课程包括：实分析、矩阵论、多元微积分、线性代数
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JoeBlack27/JoeBlack27.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
