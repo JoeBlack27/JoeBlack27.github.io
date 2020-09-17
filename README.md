@@ -14,7 +14,9 @@
 
 
 
+## 课程
 
+[Foundations of Optimization](http://www1.se.cuhk.edu.hk/~manchoso/1920/engg5501/), 香港中文大学，吴文藻
 
 ## Welcome to GitHub Pages
 
