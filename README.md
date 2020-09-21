@@ -16,9 +16,21 @@
 
 ## 课程
 
+### 数学相关
+
 [Foundations of Optimization](http://www1.se.cuhk.edu.hk/~manchoso/1920/engg5501/), 香港中文大学，吴文藻
 
 优化基础的前置课程包括：实分析、矩阵论、多元微积分、线性代数
+
+
+### 机器学习
+
+[Deep Learning and Machine Learning, Hung-yi Lee, 台大教授[李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)
+
+[课程主页-2016秋季](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html)， [B站视频](https://www.bilibili.com/video/av9770190/?from=search&seid=17240241049019116161)，
+
+[课程主页-2020秋季](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html), [B站视频](https://www.bilibili.com/medialist/play/ml1065782777/p1)， 
+
 
 ## Welcome to GitHub Pages
 
