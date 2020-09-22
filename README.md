@@ -10,7 +10,7 @@
 
 
 
-[刘烨斌](http://www.liuyebin.com)， 清华大学自动化系宽带网络和数字媒体实验室, 方向: Computational Photography and Reconstruction （3D方向居多）
+* [刘烨斌](http://www.liuyebin.com)， 清华大学自动化系宽带网络和数字媒体实验室, 方向: Computational Photography and Reconstruction （3D方向居多）
 
 
 
@@ -18,18 +18,22 @@
 
 ### 数学相关
 
-[Foundations of Optimization](http://www1.se.cuhk.edu.hk/~manchoso/1920/engg5501/), 香港中文大学，吴文藻
+* [Foundations of Optimization](http://www1.se.cuhk.edu.hk/~manchoso/1920/engg5501/), 香港中文大学，吴文藻
 
 优化基础的前置课程包括：实分析、矩阵论、多元微积分、线性代数
 
 
 ### 机器学习
 
-Deep Learning and Machine Learning, 台大, Hung-yi Lee[李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)
+* Deep Learning and Machine Learning, 台大, Hung-yi Lee[李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)
 
-[课程主页-2016秋季](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html), [课程视频](https://www.bilibili.com/video/av9770190/?from=search&seid=17240241049019116161)
+  [课程主页-2016秋季](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html), [课程视频](https://www.bilibili.com/video/av9770190/?from=search&seid=17240241049019116161)
 
-[课程主页-2020秋季](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html), [课程视频](https://www.bilibili.com/medialist/play/ml1065782777/p1)
+  [课程主页-2020秋季](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html), [课程视频](https://www.bilibili.com/medialist/play/ml1065782777/p1)
+  
+  [作业范例和作业说明](https://github.com/Iallen520/lhy_DL_Hw)
+  
+  [课程笔记](https://github.com/Sakura-gh/ML-notes)
 
 
 ## Welcome to GitHub Pages
