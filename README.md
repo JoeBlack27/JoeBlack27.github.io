@@ -33,7 +33,7 @@
   
   [作业范例和作业说明](https://github.com/Iallen520/lhy_DL_Hw)
   
-  [课程笔记](https://github.com/Sakura-gh/ML-notes)
+  [课程笔记Github](https://github.com/Sakura-gh/ML-notes), [课程笔记Gitee](https://sakura-gh.gitee.io/ml-notes/)
 
 
 ## Welcome to GitHub Pages
