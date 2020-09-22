@@ -29,7 +29,7 @@
 
   [课程主页-2016秋季](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html), [课程视频](https://www.bilibili.com/video/av9770190/?from=search&seid=17240241049019116161)
 
-  [课程主页-2020秋季](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html), [课程视频](https://www.bilibili.com/medialist/play/ml1065782777/p1)
+  [课程主页-2020秋季](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html), [课程视频](https://www.bilibili.com/video/BV1JE411g7XF)
   
   [作业范例和作业说明](https://github.com/Iallen520/lhy_DL_Hw)
   
