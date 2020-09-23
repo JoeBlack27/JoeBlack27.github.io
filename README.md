@@ -5,6 +5,10 @@
 * [动手学深度学习](http://zh.d2l.ai/index.html), 作者：阿斯顿·张, 李沐等。【在线读本】
 
 
+  [【原书Github】](https://github.com/d2l-ai/d2l-zh), [【Pytorch实现-GitHub】](https://github.com/ShusenTang/Dive-into-DL-PyTorch), [【Pytorch版本-阅读】](https://tangshusen.me/Dive-into-DL-PyTorch/#/)
+
+
+
 
 ## 领域常客主页
 
@@ -25,15 +29,15 @@
 
 ### 机器学习
 
-* Deep Learning and Machine Learning, 台大, Hung-yi Lee[李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)
+* Deep Learning and Machine Learning, 台大, Hung-yi Lee [李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)
 
-  [课程主页-2016秋季](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html), [课程视频](https://www.bilibili.com/video/av9770190/?from=search&seid=17240241049019116161)
+  [【课程主页-2016秋季】](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html), [【课程视频】](https://www.bilibili.com/video/av9770190/?from=search&seid=17240241049019116161)
 
-  [课程主页-2020秋季](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html), [课程视频](https://www.bilibili.com/video/BV1JE411g7XF)
+  [【课程主页-2020秋季】](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html), [【课程视频】](https://www.bilibili.com/video/BV1JE411g7XF)
   
-  [作业范例和作业说明](https://github.com/Iallen520/lhy_DL_Hw)
+  [【作业范例和作业说明】](https://github.com/Iallen520/lhy_DL_Hw)
   
-  [课程笔记Github](https://github.com/Sakura-gh/ML-notes), [课程笔记Gitee](https://sakura-gh.gitee.io/ml-notes/)
+  [【课程笔记Github】](https://github.com/Sakura-gh/ML-notes), [【课程笔记Gitee】](https://sakura-gh.gitee.io/ml-notes/)
 
 
 ## Welcome to GitHub Pages
