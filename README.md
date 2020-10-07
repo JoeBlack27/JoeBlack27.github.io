@@ -4,8 +4,22 @@
 
 * [动手学深度学习](http://zh.d2l.ai/index.html), 作者：阿斯顿·张, 李沐等。【在线读本】
 
-
   [【原书Github】](https://github.com/d2l-ai/d2l-zh), [【Pytorch实现-GitHub】](https://github.com/ShusenTang/Dive-into-DL-PyTorch), [【Pytorch版本-阅读】](https://tangshusen.me/Dive-into-DL-PyTorch/#/)
+
+* [Machine Learning：A Probabilistic Perspective（MLAPP）](), 作者：Kevin P. Murphy【评价：入门】
+
+* [Pattern Recognition and Machine Learning](), 作者：Christopher M. Bishop【评价：入门】
+
+* [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/), 作者：Gareth James, Daniela Witten等。【评价：入门】
+
+* [Elements of Statistical Learning](), 作者：Gareth James, Daniela Witten等。【评价：进阶】
+
+* [All of Statistics: A Concise Course in Statistical Inference](https://www.ic.unicamp.br/~wainer/cursos/1s2013/ml/livro.pdf), 作者：Larry Wasserman。【评价：入门】
+
+* [Statistical Learning with Sparsity](https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS_corrected_1.4.16.pdf), 作者：Hastie, Tibshirani, Wainweight【评价：入门】
+
+* [Understanding Machine Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf), 作者： Shai Shalev-Shwartz， Shai Ben-David【评价：入门】
+
 
 
 
