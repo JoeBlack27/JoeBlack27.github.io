@@ -91,3 +91,34 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+Markdown or Latex cookbook:
+
+
+**<font color = red>红色+加粗</font>**
+```text
+**<font color = red>红色+加粗</font>** 
+```
+
+_<font color = blue>蓝色+斜体</font>_
+```text
+_<font color = blue>蓝色+斜体</font>_
+```
+
+_**<font color=green>绿色+加粗+斜体</font>**_
+```text
+_**<font color=green>绿色+加粗+斜体</font>**_
+```
+
+文字高亮
+
+<mark style=background-color:yellow>改变高亮颜色</mark> 
+```text
+<mark style=background-color:yellow>改变高亮颜色</mark> 
+```
+
+<mark><font color=red size=4 face=雅黑>叠加字体的变化<font><mark>
+```text
+<mark><font color=red size=4 face=雅黑>叠加字体的变化<font><mark>
+```
