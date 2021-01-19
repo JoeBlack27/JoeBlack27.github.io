@@ -53,7 +53,10 @@
   
   [【课程笔记Github】](https://github.com/Sakura-gh/ML-notes), [【课程笔记Gitee】](https://sakura-gh.gitee.io/ml-notes/)
 
+### Computer Vision
+* CAP 5415 – Computer Vision, Dr. Mubarak Shah, UCF(University of Central Florida)
 
+[【课程主页-2016秋季】](https://www.crcv.ucf.edu/courses/cap5415-fall-2012/)
 
 ### Blog
 
